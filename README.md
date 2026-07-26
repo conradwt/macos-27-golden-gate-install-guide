@@ -1,6 +1,6 @@
 # macOS 27 Golden Gate Install Guide
 
-This is a good way to install macOS 27 Tahoe without overwriting your existing macOS version.
+This is a good way to install macOS 27 Golden Gate without overwriting your existing macOS version.
 Also, all of the volumes within a container share the available space of the container’s disk.
 
 ## Create Volume
@@ -17,7 +17,7 @@ Note: https://www.youtube.com/watch?v=vk1xK28KkLA
 ## Download Installer
 
 - Option #1
-  - select System Settings -> General -> Software Update -> Beta Updates -> macOS Tahoe 27 Developer Beta
+  - select System Settings -> General -> Software Update -> Beta Updates -> macOS Golden Gate 27 Developer Beta
   - From the Terminal, type the following:
 
     ```zsh
@@ -30,11 +30,11 @@ Note: https://www.youtube.com/watch?v=vk1xK28KkLA
 - Option #2 - If the Option #1 doesn’t work, download the installer from the following location:
   - https://mrmacintosh.com/macos-golden-gate-full-installer-database-download-directly-from-apple/
 
-## macOS Tahoe Setup
+## macOS Golden Gate Setup
 
-- Disable macOS Tahoe 27 Developer Beta
+- Disable macOS Golden Gate 27 Developer Beta
   - Select System Settings -> General -> Software Update -> Beta Updates -> Off
-- Exclude the volume that you used to install `macOS 27 Tahoe`
+- Exclude the volume that you used to install `macOS 27 Golden Gate`
   - Select System Settings -> Spotlight -> Search Privacy
   - Click the plus button
   - Choose the `macOS 27` volume, and this should appear within the left sidebar of the Finder
@@ -48,12 +48,12 @@ Note: https://www.youtube.com/watch?v=vk1xK28KkLA
 - Navigate to the installer within `/Applications` folder.
 - Double click to start the installation process, but select the `macOS 27` volume.
 
-  Note: I didn't copy my settings from macOS Tahoe during the installation process.
+  Note: I didn't copy my settings from macOS Golden Gate during the installation process.
 
-## macOS 27 Tahoe Post Install
+## macOS 27 Golden Gate Post Install
 
-- Enable macOS Tahoe 27 Developer Beta
-  - Select System Settings -> General -> Software Update -> Beta Updates -> macOS Tahoe 27 Developer Beta
+- Enable macOS Golden Gate 27 Developer Beta
+  - Select System Settings -> General -> Software Update -> Beta Updates -> macOS Golden Gate 27 Developer Beta
 - Exclude `Macintosh HD` volumes
   - Select System Settings -> Spotlight -> Search Privacy
   - Click the plus button

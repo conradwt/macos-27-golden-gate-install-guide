@@ -21,8 +21,8 @@ Note: https://www.youtube.com/watch?v=vk1xK28KkLA
   - From the Terminal, type the following:
 
     ```zsh
-    softwareupdate —list-full-installers
-    softwareupdate —fetch-full-installer —full-installer-version 27.0
+    softwareupdate --list-full-installers
+    softwareupdate --fetch-full-installer --full-installer-version 27.0
     ```
 
   Note: https://www.youtube.com/watch?v=EVeQrk4MyB0

@@ -48,7 +48,7 @@ Note: https://www.youtube.com/watch?v=vk1xK28KkLA
 - Navigate to the installer within `/Applications` folder.
 - Double click to start the installation process, but select the `macOS 27` volume.
 
-  Note: I didn't copy my settings from macOS Golden Gate during the installation process.
+  Note: I didn't copy my settings from macOS 26 Tahoe during the installation process.
 
 ## macOS 27 Golden Gate Post Install
 

@@ -30,7 +30,7 @@ Note: https://www.youtube.com/watch?v=vk1xK28KkLA
 - Option #2 - If the Option #1 doesn’t work, download the installer from the following location:
   - https://mrmacintosh.com/macos-golden-gate-full-installer-database-download-directly-from-apple/
 
-## macOS Golden Gate Setup
+## macOS Tahoe Setup
 
 - Disable macOS Golden Gate 27 Developer Beta
   - Select System Settings -> General -> Software Update -> Beta Updates -> Off
